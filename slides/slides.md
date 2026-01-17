@@ -186,6 +186,12 @@ level: 3
 
 # Kurse
 
+* OpenSCAD
+* Inkscape Fortgeschrittene
+* Arduino Anfänger
+* Ferienprogramm
+* CodeWeek (Raspi Pico)
+
 ---
 level: 3
 ---
@@ -198,30 +204,33 @@ level: 3
 
 
 ---
+layout: section
 ---
 # TOP4 - Kassenbericht durch den Kassier
 
 ---
+layout: section
 ---
 # TOP5 - Bericht der Kassenprüfer und Entlastung des Vorstands
 
 ---
+layout: section
 ---
 # TOP6 - Beschluss über Änderung der Beitragsordnung
 
 ---
-level: 2
----
-# Test2
-
----
+layout: section
 ---
 # TOP7 - Beschluss über Änderung der Schlüsselordnung
 
 ---
+layout: section
 ---
 # TOP8 - Prüfung der aktuellen Preisliste
 
 ---
+layout: section
 ---
 # TOP9 - Weitere Tagesordnungspunkte, Wünsche und Anträge
+
+* a. Verantwortlichkeiten für Maschinen
